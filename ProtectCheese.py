@@ -250,6 +250,7 @@ class ProtectCheese:
         self.restart.pack()
         
     def game_restart(self):
+        self.guesses.clear()
         self.target_word = self.get_word()
         self.word_submit.configure(state = "normal")
         self.letter_submit.configure(state = "normal")
