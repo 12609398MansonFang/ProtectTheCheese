@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-12-26T18:04:55.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9qmZUMSD_5crNHm5IWMc" version="22.1.11" type="device">
+  <diagram name="Page-1" id="j_j-6PCuWzxo_krS-YMR">
+    <mxGraphModel dx="1387" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-12" value="3D Porfolio" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="640" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-36" value="Src" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-12">
+          <mxGeometry x="20" y="40" width="600" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-13" value="Main.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-14" value="App.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-15" value="Index.css" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-16" value="Pages" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="180" y="40" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-24" value="Homepage.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-16">
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-27" value="Contact.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-16">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-28" value="Projects.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-16">
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-17" value="Models" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="380" y="40" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-29" value="Island.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-17">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-30" value="Plane.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-17">
+          <mxGeometry x="40" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-31" value="Suit.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-17">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-55" value="Payload.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-17">
+          <mxGeometry x="40" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-40" value="Components" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="380" y="340" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-41" value="Navbar.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-40">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-42" value="RotationContext.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-40">
+          <mxGeometry x="40" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-44" value="Assets" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-36">
+          <mxGeometry x="20" y="280" width="340" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-47" value="3d" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-44">
+          <mxGeometry x="20" y="40" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-48" value="Suit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-47">
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-49" value="Plane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-47">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-50" value="Island" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-47">
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-77" value="Payload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-47">
+          <mxGeometry x="20" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J2bzSxxiT3lKF_txmGgI-83" value="Music" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J2bzSxxiT3lKF_txmGgI-44">
+          <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
